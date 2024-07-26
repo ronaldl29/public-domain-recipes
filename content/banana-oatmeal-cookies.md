@@ -9,6 +9,8 @@ author: "Éric G."
 - 🍳 Cook time: 20 min
 - 🍽️ Serving : 3
 
+![Banana and oatmeal cookies](/pix/banana_oatmeal_cookies-00.webp "Banana and oatmeal cookies")
+
 ## Ingredients
 
 - 2 ripe bananas (250 g/9 oz peeled)
