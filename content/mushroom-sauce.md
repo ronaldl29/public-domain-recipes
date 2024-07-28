@@ -5,7 +5,7 @@ date: 2024-07-11
 author: i4k1
 ---
 
-This is a simple mushroom sauce recipe. Goes great with [pasta](/pasta.md).
+This is a simple mushroom sauce recipe. Goes great with [pasta](/pasta/).
 
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 30 min

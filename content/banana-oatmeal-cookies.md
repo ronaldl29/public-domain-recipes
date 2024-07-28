@@ -1,6 +1,6 @@
 ---
 title: Banana and oatmeal cookies
-tags: ['snack', 'quick', 'dessert']
+tags: ['snack', 'quick', 'dessert', 'cookies']
 date: 2022-07-12
 author: "Éric G."
 ---
