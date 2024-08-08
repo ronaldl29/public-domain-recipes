@@ -296,6 +296,7 @@ button#clear-search:hover {
 #tag_vietnamese:before { content: "🇻🇳" ; }
 #tag_wine:before { content: "🍷" ; }
 #tag_air-fryer:before { content: "🥘" ; }
+#tag_waffle:before { content: "🧇" ; }
 
 .cryptocontainer {
     display: flex ;
