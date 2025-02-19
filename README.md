@@ -1,5 +1,5 @@
 # Public Domain Recipes
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]() [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)()
 
 [PublicDomainRecipes.com](https://publicdomainrecipes.com)
 
