@@ -8,7 +8,7 @@ There are no ads, trackers or cookies (unless recipes thereof).
 
 This site is compiled and organized with Hugo, using [this very simple theme](https://github.com/lukesmithxyz/lugo).
 
-![Screenshot](https://github.com/ronaldl29/public-domain-recipes/blob/master/README-image.png?raw=true)
+![Screenshot](https://github.com/ronaldl29/public-domain-recipes/blob/main/README-image.png?raw=true)
 
 ## Ways to contribute
 
