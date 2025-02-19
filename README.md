@@ -1,5 +1,5 @@
 # Public Domain Recipes
-![PRs Welcome](https://badgen.net/static/PRs/Welcome/green) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![LICENSE](https://badgen.net/static/LICENSE/Unlicense)
+![PRs Welcome](https://badgen.net/static/PRs/Welcome/green) ![LICENSE](https://badgen.net/static/LICENSE/Unlicense) [![GitHub release](https://img.shields.io/github/release/ronaldl29/public-domain-recipes.svg)](https://GitHub.com/ronaldl29/public-domain-recipes/releases/) [![GitHub contributors](https://badgen.net/github/contributors/ronaldl29/public-domain-recipes.js)](https://GitHub.com/ronaldl29/public-domain-recipes/graphs/contributors/) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 [PublicDomainRecipes.com](https://publicdomainrecipes.com)
 
