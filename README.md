@@ -1,4 +1,5 @@
 # Public Domain Recipes
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()
 
 [PublicDomainRecipes.com](https://publicdomainrecipes.com)
 
