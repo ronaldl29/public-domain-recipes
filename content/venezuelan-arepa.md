@@ -16,7 +16,6 @@ They can be filled with dozens of things, and each presentation has a particular
 
 - 2 ½ cups of water
 - 2 cups of precooked corn flour
-- a pinch of salt
 - delicatessen to taste
 
 ## Directions
