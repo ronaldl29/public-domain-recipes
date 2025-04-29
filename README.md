@@ -6,7 +6,7 @@
 This is a simple cooking website where users can submit recipes here for credit.
 There are no ads, trackers or cookies (unless recipes thereof).
 
-This site is compiled and organized with Hugo, using [this very simple theme](https://github.com/lukesmithxyz/lugo).
+This site is compiled and organized with Hugo, using [this very simple theme](https://github.com/lukesmithxyz/lugo). This project is a continuation of LukeSmithXYZ's [based.cooking project](https://github.com/LukeSmithxyz/based.cooking).
 
 ![Screenshot](https://github.com/ronaldl29/public-domain-recipes/blob/main/README-image.png?raw=true)
 
