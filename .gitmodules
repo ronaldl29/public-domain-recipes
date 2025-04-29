@@ -1,0 +1,3 @@
+[submodule "themes/lugo"]
+	path = themes/lugo
+	url = https://github.com/lukesmithxyz/lugo
