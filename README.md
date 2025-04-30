@@ -66,3 +66,9 @@ you waive any pretense of ownership to it,
 although you are welcome and recommended to give yourself credit
 at the bottom of a submitted page for you adding it
 (including personal or donation links).
+
+# Building Locally
+1. Run `git clone https://github.com/ronaldl29/public-domain-recipes.git`
+2. To install submodules (lugo theme), run `git submodule update --init --recursive`.
+3. Run `hugo`.
+4. The website's generated files are now in the `/public` directory.
