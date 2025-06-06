@@ -1,6 +1,6 @@
 ---
 title: Pavlova
-tags: ['meringue', 'dessert', 'austrailian', 'new zealand', 'oven', 'baking']
+tags: ['meringue', 'dessert', 'australian', 'new zealand', 'oven', 'baking']
 date: 2023-06-10
 author: "u/Idzuna"
 ---
@@ -23,7 +23,7 @@ author: "u/Idzuna"
 
 ## Directions
 
-1. Beat all ingredients until smooth, stiff and shines. 
+1. Beat all ingredients until smooth, stiff and shines.
 2. Continue beating mixture until soft peak forms when lifting beater (approx 12 minutes).
 3. Place on baking paper on tray.
 4. Bake in middle of oven at 180˚C (350-360˚F) for 10 minutes.
