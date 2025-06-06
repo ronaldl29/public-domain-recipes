@@ -1,6 +1,6 @@
 ---
 title: Tarte Merengada de Limão
-tags: ['meringe', 'lemon', 'pie', 'portuguese', 'sweet']
+tags: ['meringue', 'lemons', 'pie', 'portuguese', 'sweet']
 date: 2023-03-27
 author: magikarp-salesman
 ---
