@@ -4,6 +4,7 @@ tags: ['salmon', 'soup', 'finnish', 'fish', 'easy']
 date: 2025-07-23
 author: tara-brennan
 ---
+
 This soup is also known as Lohikeitto.
 
 - ⏲️  Prep time: 20 min
