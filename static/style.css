@@ -216,6 +216,7 @@ button#clear-search:hover {
 #tag_beans:before { content: "🫘" ; }
 #tag_beef:before { content: "🐄" ; }
 #tag_belgian:before { content: "🇧🇪" ; }
+#tag_blueberry:before { content: "🫐" ; }
 #tag_brazilian:before { content: "🇧🇷" ; }
 #tag_bread:before { content: "🍞" ;}
 #tag_breakfast:before { content: "🌅" ;}
@@ -227,6 +228,7 @@ button#clear-search:hover {
 #tag_chinese:before { content: "🐉" ; }
 #tag_chocolate:before { content: "🍫" ; }
 #tag_christmas:before { content: "🎄" ; }
+#tag_coconut:before { content: "🥥" ; }
 #tag_cookies:before { content: "🍪" ;}
 #tag_corn:before { content: "🌽" ;}
 #tag_curry:before { content: "🍛" ; }
@@ -243,12 +245,15 @@ button#clear-search:hover {
 #tag_fasting:before { content: "☦️" ; }
 #tag_filipino:before { content: "🇵🇭" ; }
 #tag_finnish:before { content: "🇫🇮" ; }
+#tag_finnish:before { content: "🇫🇮" ; }
 #tag_fish:before { content: "🐟" ; }
 #tag_french:before { content: "🇫🇷" ; }
 #tag_fruit:before { content: "🍇" ; }
 #tag_garlic:before { content: "🧄" ; }
 #tag_german:before { content: "🇩🇪" ; }
 #tag_greek:before { content: "🇬🇷" ; }
+#tag_ham:before { content: "🐖" ; }
+#tag_honey:before { content: "🍯" ; }
 #tag_hungarian:before { content: "🇭🇺" ; }
 #tag_indian:before { content: "🇮🇳" ; }
 #tag_indonesian:before { content: "🇮🇩" ; }
@@ -266,6 +271,7 @@ button#clear-search:hover {
 #tag_mexican:before { content: "🇲🇽" ; }
 #tag_milk:before { content: "🥛" ; }
 #tag_mushrooms:before { content: "🍄" ;}
+#tag_new-zealand:before { content: "🇳🇿" ;}
 #tag_noodles:before { content: "🍜" ; }
 #tag_palestinian:before { content: "🇵🇸" ; }
 #tag_pancake:before { content: "🥞" ; }
