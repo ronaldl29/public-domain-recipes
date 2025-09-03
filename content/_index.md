@@ -82,7 +82,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 ## About this site
 
-This recipe website is designed to be simple and with no ads or tracking. All recipes are public domain and free for anyone to share. Originally forked from Luke Smith's based.cooking project.
+This recipe website is designed to be simple and with no ads or tracking. All recipes are public domain and free for anyone to share. Originally forked from Luke Smith's based.cooking project. This website and project are released under the [Unlicense](https://github.com/ronaldl29/public-domain-recipes/blob/main/LICENSE.md);
 
 ## How to add a recipe
 
