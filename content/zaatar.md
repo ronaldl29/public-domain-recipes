@@ -16,7 +16,7 @@ This recipe scales for larger amounts so long you preserve the ratios.
 - 1 Cup sesame (optionally roasted).
 - 1 Cup Sumac.
 - 1 teaspoon salt.
-- Optional: citric acid salt, for extra kick if the Sumac wasn't enough for you.
+- citric acid salt, for extra kick if the sumac wasn't enough for you (optional)
 
 ## Directions
 

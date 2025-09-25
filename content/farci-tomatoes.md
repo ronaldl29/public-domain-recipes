@@ -22,7 +22,7 @@ Farcies tomates with rice.
 - Olive oil
 - Gruyere cheese.
 - Salt and pepper.
-- Optional: Butter.
+- Butter (optional).
 
 ## Directions
 

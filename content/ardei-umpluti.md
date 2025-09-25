@@ -20,7 +20,7 @@ Farcies tomates with rice.
 - Condiments of your choice: Parsley, origan or cumin.
 - Olive oil
 - Salt and pepper.
-- Optional: Bechamel.
+- Bechamel (optional).
 
 ## Directions
 
