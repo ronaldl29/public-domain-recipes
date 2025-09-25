@@ -5,8 +5,6 @@ date: 2022-10-03
 author: hanlex
 ---
 
-# Granola
-
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 40 min
 - 🍽️ Servings: 5

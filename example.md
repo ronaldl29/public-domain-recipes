@@ -34,6 +34,6 @@ You may also include prep/cook time and the number of servings as below:
 
 Note that you can create a `your-name.json` file in `data/authors` to add
 personal links and donation addresses if you want more specific credit. If you
-do this, for the `author:` line the in the metadata, include the bare file name
+do this, for the `author:` line in the metadata, include the bare file name
 of the json file. For example, my file is `data/authors/luke-smith.json`, so I
 would put `author: luke-smith`.

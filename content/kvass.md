@@ -5,7 +5,7 @@ tags: ['drink', 'bread']
 author: holsterbau
 ---
 
-[Kvass](https://en.wikipedia.org/wiki/Kvass) is a Slavic fermented beverage which is both simple to make and rich in flavour.
+Kvass is a Slavic fermented beverage which is both simple to make and rich in flavour.
 
 - ⏲️ Prep time: ~30 min
 - ⌛ Fermentation time: ~1 week

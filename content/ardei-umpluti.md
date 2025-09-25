@@ -15,12 +15,12 @@ Farcies tomates with rice.
 ## Ingredients
 
 - 2 yellow peppers per person
-- Around 120g of ground beef meat per person.
-- 1 or 2 onions.
-- Condiments of your choice: Parsley, origan or cumin.
+- Around 120g of ground beef meat per person
+- 1 or 2 onions
+- Condiments of your choice: Parsley, origan or cumin
 - Olive oil
-- Salt and pepper.
-- Bechamel (optional).
+- Salt and pepper
+- Bechamel (optional)
 
 ## Directions
 

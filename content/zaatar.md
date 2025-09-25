@@ -1,8 +1,8 @@
 ---
-title:	"Zaatar"
-date:	2022-09-30
-tags:	['palestinian', 'lebanese', 'mediterranean', 'middle eastern', 'spice']
-author:	Wael Karram
+title: "Zaatar"
+date: 2022-09-30
+tags: ['palestinian', 'lebanese', 'mediterranean', 'middle eastern', 'spice']
+author: "Wael Karram"
 ---
 
 This is a traditional Palestinian-Lebanese way of making Zaatar.
@@ -16,7 +16,7 @@ This recipe scales for larger amounts so long you preserve the ratios.
 - 1 cup sesame (optionally roasted).
 - 1 cup sumac.
 - 1 teaspoon salt.
-- citric acid salt, for extra kick if the sumac wasn't enough for you (optional)
+- citric acid salt (optional), for extra kick if the sumac wasn't enough for you
 
 ## Directions
 
