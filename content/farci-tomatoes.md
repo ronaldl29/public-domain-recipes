@@ -18,7 +18,7 @@ Farcies tomates with rice.
 - 2 tomatoes per person.
 - 300g of ground beef meat.
 - 1 or 2 onions.
-- Condiments of your choice: Parsley, origan or cumin.
+- Condiments of your choice: parsley, origan or cumin.
 - Olive oil
 - Gruyere cheese.
 - Salt and pepper.

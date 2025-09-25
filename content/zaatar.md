@@ -12,9 +12,9 @@ This recipe scales for larger amounts so long you preserve the ratios.
 
 ## Ingredients
 
-- 1 Cup Zaatar leaves (without the stalks), cleaned and dried.
-- 1 Cup sesame (optionally roasted).
-- 1 Cup Sumac.
+- 1 cup zaatar leaves (without the stalks), cleaned and dried.
+- 1 cup sesame (optionally roasted).
+- 1 cup sumac.
 - 1 teaspoon salt.
 - citric acid salt, for extra kick if the sumac wasn't enough for you (optional)
 
@@ -22,5 +22,5 @@ This recipe scales for larger amounts so long you preserve the ratios.
 
 1. Lightly roast the sesame in a wide pan until it get a golden brown color.
 2. Wait for the sesame to completely cool down.
-3. Mix everything together, starting from the Zaatar and sesame while adjusting the Sumac (optionally citric acid) and salt to taste.
+3. Mix everything together, starting from the zaatar and sesame while adjusting the sumac (optionally citric acid) and salt to taste.
 4. Store in an airtight jar or container.
