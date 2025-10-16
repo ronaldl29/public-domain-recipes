@@ -86,4 +86,4 @@ This recipe website is designed to be simple and with no ads or tracking. All re
 
 ## How to add a recipe
 
-New recipes can be submitted [on Github](https://github.com/ronaldlong46/public-domain-recipes).
+New recipes can be submitted on [Github](https://github.com/ronaldlong46/public-domain-recipes) or on [Codeberg](https://codeberg.org/ronaldl29/public-domain-recipes).
