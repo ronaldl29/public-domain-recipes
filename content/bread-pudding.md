@@ -1,7 +1,7 @@
 ---
 title: "Bread Pudding"
 tags: ['bread', 'dessert', 'pudding']
-date: 1832-1-1
+date: 1832-01-01
 author: "Miss Leslie"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Plum Pudding"
 tags: ['raisins', 'dessert', 'pudding', 'fruit']
-date: 1832-1-1
+date: 1832-01-01
 author: "Miss Leslie"
 ---
 

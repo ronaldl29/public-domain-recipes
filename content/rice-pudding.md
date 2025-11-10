@@ -1,7 +1,7 @@
 ---
 title: "Rice Pudding"
 tags: ['rice', 'dessert', 'pudding']
-date: 1832-1-1
+date: 1832-01-01
 author: "Miss Leslie"
 ---
 
