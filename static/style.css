@@ -286,6 +286,7 @@ button#clear-search:hover {
 #tag_potato:before { content: "🥔" ; }
 #tag_quebec:before { content: "⚜️" ; }
 #tag_quick:before { content: "🏃" ; }
+#tag_rabbit:before { content: "🐇" ;}
 #tag_raw:before { content: "🍖" ;}
 #tag_rice:before { content: "🍚" ; }
 #tag_romanian:before { content: "🇷🇴" ; }
@@ -313,6 +314,7 @@ button#clear-search:hover {
 #tag_ukrainian:before { content: "🇺🇦" ; }
 #tag_uzbek:before { content: "🇺🇿" ; }
 #tag_venezuelan:before { content: "🇻🇪" ; }
+#tag_venison:before { content: "🦌" ; }
 #tag_vietnamese:before { content: "🇻🇳" ; }
 #tag_waffle:before { content: "🧇" ; }
 #tag_wine:before { content: "🍷" ; }
