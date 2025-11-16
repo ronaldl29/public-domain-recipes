@@ -36,9 +36,9 @@ author: "pestanzul"
    - don't worry if the ice melts when you stir: the water stays cold and will freeze again fast enough
 9. Depending on the temperature, the whole thing may take much time to freeze: it's not unusual for it to require up to 20 hours.
    That's expected and depends also on the amount of sugar and fruit.
-   The granita is ready when in the container there are only ice crystals: no liquid water and no ice blocks.
+   Granita is ready when in the container there are only ice crystals: no liquid water and no ice blocks.
    You can then use a spoon to serve in small cups.
-10. If you don't consume all the granita at once, it may freeze in block.
+10. If you don't consume all granita at once, it may freeze to a block.
     If that happens, just scratch it with the spoon or break it with a fork.
 
 Granita is traditionally prepared with lemons, but you can replace them with any other fruit (the riper, the better), provided you peel it.
