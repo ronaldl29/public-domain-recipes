@@ -7,11 +7,6 @@ author: "pestanzul"
 
 ![Jam](/pix/jam.webp)
 
-If necessary, provide a very brief description of the dish in one or two sentences.
-For most dishes, this will be unnecessary.
-If there is a title image of this dish, it should be above this paragraph.
-You may also include prep/cook time and the number of servings as below:
-
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 2 h
 
@@ -29,5 +24,6 @@ You may also include prep/cook time and the number of servings as below:
 4. Keep the pot on low fire, stirring often and in particular the bottom, which will otherwise burn very easily.
 5. Jam _must boil_ for _at least 2 hours_.
    This is necessary to inactivate botulinum spores that may be present in the fruit, which could otherwise produce deadly toxins.
-6. Pour boiling-hot jam in glass jars and close them immediately.
-   The jars will go vacuum in a few minutes: you can then store your jam for many months.
+6. If fruit pieces are still visible, you may blend them.
+7. Pour boiling-hot jam in glass jars and close them immediately.
+   They will go vacuum in a few minutes: you can then store your jam for many months.

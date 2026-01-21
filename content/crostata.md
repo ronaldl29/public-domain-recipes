@@ -22,6 +22,7 @@ author: "pestanzul"
 2. Place rolled shortcrust pastry in a baking mold and arrange the border along those of the mold, so that the pastry can contain jam.
 3. Pour the jam in the shortcrust pastry "container" you just created and spread it with a spoon.
 4. Use the pastry you set aside to create rolls and place them in a criss-cross pattern all over the surface.
+   Push them through the jam to the bottom.
 5. Preheat the oven to 180 °C.
 6. Cook in the oven for about 45 minutes.
 7. Let the cake cool down to room temperature before removing from the mold, otherwise it will easily break.
