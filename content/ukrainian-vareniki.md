@@ -1,7 +1,7 @@
 ---
 title: "Ukrainian Vareniki"
 date: 2021-04-06
-tags: ['ukrainian', 'dumpling', 'potato']
+tags: ['ukrainian', 'potato']
 author: vlad
 ---
 

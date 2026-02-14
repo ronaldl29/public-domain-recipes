@@ -1,6 +1,6 @@
 ---
 title: Jam
-tags: ['fasting', 'fruit']
+tags: ['fasting', 'fruit', 'jam']
 date: 2025-09-25
 author: "pestanzul"
 ---

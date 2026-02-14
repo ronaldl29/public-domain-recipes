@@ -1,7 +1,7 @@
 ---
 title: "Basic Waffles"
 date: 2024-02-24T15:40:05+01:00
-tags: ['sweet', 'basic', 'dessert', 'waffle']
+tags: ['sweet', 'basic', 'dessert']
 author: logianer
 ---
 
