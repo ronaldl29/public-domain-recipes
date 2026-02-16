@@ -263,7 +263,6 @@ button#clear-search:hover {
 #tag_fish:before { content: "🐟" ; }
 #tag_french:before { content: "🇫🇷" ; }
 #tag_fruit:before { content: "🍇" ; }
-#tag_garlic:before { content: "🧄" ; }
 #tag_german:before { content: "🇩🇪" ; }
 #tag_greek:before { content: "🇬🇷" ; }
 #tag_ham:before { content: "🐖" ; }
@@ -276,7 +275,7 @@ button#clear-search:hover {
 #tag_italian:before { content: "🇮🇹" ; }
 #tag_japanese:before { content: "🇯🇵" ; }
 #tag_lebanese:before { content: "🇱🇧" ; }
-#tag_lemons:before { content: "🍋" ;}
+#tag_lemon:before { content: "🍋" ;}
 #tag_lithuanian:before { content: "🇱🇹" ; }
 #tag_liquour:before { content: "🥃" ;}
 #tag_lunch:before { content: "🍱" ; }
@@ -330,7 +329,6 @@ button#clear-search:hover {
 #tag_venezuelan:before { content: "🇻🇪" ; }
 #tag_venison:before { content: "🦌" ; }
 #tag_vietnamese:before { content: "🇻🇳" ; }
-#tag_waffle:before { content: "🧇" ; }
 #tag_wine:before { content: "🍷" ; }
 
 .cryptocontainer {

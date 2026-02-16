@@ -1,6 +1,6 @@
 ---
 title: Crostata
-tags: ['baking', 'cake', 'cheesefare', 'dessert', 'italian']
+tags: ['baking', 'cake', 'cheesefare', 'dessert', 'italian', 'jam']
 date: 2025-09-25
 author: "pestanzul"
 ---
