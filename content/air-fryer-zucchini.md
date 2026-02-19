@@ -1,6 +1,6 @@
 ---
 title: Air Fryer Zucchini
-tags: ['air-fryer', 'zucchini', 'easy', 'quick']
+tags: ['zucchini', 'easy', 'quick']
 date: 2023-04-28
 author: "Ronald L"
 ---

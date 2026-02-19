@@ -1,12 +1,12 @@
 ---
 title: Blueberry Muffins
-tags: ['berry', 'blueberry', 'muffins', 'baking', 'oven']
+tags: ['berries', 'muffins', 'baking']
 date: 2022-06-10
 author: "Marcus Howser"
 ---
 
-⏲️ Prep time: 10 min  
-🍳 Cook time: 30 min  
+⏲️ Prep time: 10 min
+🍳 Cook time: 30 min
 🍽️ Servings: 12
 
 ## Ingredients

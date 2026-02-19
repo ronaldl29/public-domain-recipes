@@ -1,7 +1,7 @@
 ---
 title: "Ragu Napoletano"
 date: 2021-05-13
-tags: ['tomato', 'sauce', 'italian', 'pork', 'veal']
+tags: ['sauce', 'italian']
 author: mfed3
 ---
 

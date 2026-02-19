@@ -1,7 +1,7 @@
 ---
 title: "Baby Back Ribs"
 date: 2022-04-15
-tags: ['pork', 'american', 'supper', 'southern']
+tags: ['pork', 'american', 'supper']
 author: crazywillbear
 ---
 
