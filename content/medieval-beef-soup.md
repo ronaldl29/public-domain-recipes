@@ -2,7 +2,7 @@
 title: "Medieval Beef Soup"
 date: 2022-04-15
 author: "LogSuperMulti"
-tags: ['beef', 'soup', 'roast']
+tags: ['beef', 'soup', 'roast', 'medieval']
 ---
 
 ![Medieval Beef Soup](/pix/medieval-beef-soup.webp)
