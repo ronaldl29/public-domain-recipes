@@ -1,0 +1,10 @@
+<!--
+This shortcode was written from scratch, without looking at tagcloud from the
+non-free theme lugo.
+This shortcode is released under the Unlicense (https://unlicense.org/).
+-->
+<ul id="tagcloud">
+{{- range .Site.Taxonomies.tags }}
+  <li><a id="tag_{{ .Page.Title | anchorize }}" href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+{{- end }}
+</ul>

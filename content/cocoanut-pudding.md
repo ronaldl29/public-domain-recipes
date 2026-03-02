@@ -1,6 +1,6 @@
 ---
 title: "Cocoa-nut Pudding"
-tags: ['cocoa', 'dessert', 'pudding']
+tags: ['coconut', 'dessert', 'pudding']
 date: 1832-01-01
 author: "Miss Leslie"
 ---

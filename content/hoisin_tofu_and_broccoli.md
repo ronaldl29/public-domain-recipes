@@ -1,6 +1,6 @@
 ---
 title: Hoisin Tofu and Broccoli
-tags: ['tofu', 'vegan', 'chinese']
+tags: ['tofu', 'chinese']
 date: 2023-04-04
 author: "Mark Erickson"
 ---

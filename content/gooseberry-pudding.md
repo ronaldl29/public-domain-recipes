@@ -1,6 +1,6 @@
 ---
 title: "Gooseberry Pudding"
-tags: ['berry', 'dessert', 'pudding', 'gooseberry']
+tags: ['berries', 'dessert', 'pudding']
 date: 1832-01-01
 author: "Miss Leslie"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Limoncini
-tags: ['baking', 'dessert', 'dough', 'italian', 'lemons', 'sweet']
+tags: ['baking', 'dessert', 'dough', 'italian', 'lemon', 'sweet']
 date: 2026-02-14
 author: "pestanzul"
 ---

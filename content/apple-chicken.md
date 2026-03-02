@@ -1,6 +1,6 @@
 ---
 title: "Apple Chicken"
-tags: ['spanish', 'chicken', 'oven', 'apple']
+tags: ['spanish', 'chicken', 'baking', 'apple']
 date: 2022-07-11
 author: miraunpajaro
 ---
