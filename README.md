@@ -69,6 +69,5 @@ at the bottom of a submitted page for you adding it
 
 # Building Locally
 1. Run `git clone https://github.com/ronaldl29/public-domain-recipes.git`
-2. To install submodules (lugo theme), run `git submodule update --init --recursive`.
-3. Run `hugo`.
-4. The website's generated files are now in the `/public` directory.
+2. Run `hugo` to build for production or `hugo --baseURL="http://localhost:1313/" server` to run a development server.
+3. The website's generated files are now in the `/public` directory.
