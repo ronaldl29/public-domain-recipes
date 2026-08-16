@@ -10,9 +10,7 @@
   {{ $general_style := resources.Get "style.css" }}
   {{ $tag_style := resources.Get "tags.css" }}
   <link rel="stylesheet" type="text/css" href="{{ $general_style.RelPermalink }}" />
-  {{ if .GetTerms "tags"  }}
-    <link rel="stylesheet" type="text/css" href="{{ $tag_style.RelPermalink }}" />
-  {{ end }}
+  <link rel="stylesheet" type="text/css" href="{{ $tag_style.RelPermalink }}" />
   {{ $favicon := resources.Get "favicon.svg" }}
   <link rel="icon" href="{{ $favicon.RelPermalink }}" />
   <meta name="keywords" content="{{ with .Params.tags }}{{ delimit . "," }}{{ end }}">
