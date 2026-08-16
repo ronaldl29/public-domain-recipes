@@ -5,7 +5,7 @@ tags: ['oat', 'drink', 'breakfast']
 author: machocam
 ---
 
-Oatmilk with great consistency made with 4 ingredients.
+Oat milk with great consistency.
 
 - ⏲️ Prep time: 7-10 min
 

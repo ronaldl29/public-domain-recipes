@@ -36,8 +36,6 @@ A comforting Filipino classic with tender chicken simmered in sweet pineapple go
 7. Add bell peppers and season with salt and pepper.
 8. Simmer for another 3–5 minutes and serve hot.
 
-## Notes
+For a richer flavor, let the chicken absorb the pineapple juice longer before adding milk.
 
-✨ For a richer flavor, let the chicken absorb the pineapple juice longer before adding milk.
-
-🍚 Best served with warm rice and an ice-cold drink.
+Best served with warm rice and an ice-cold drink.

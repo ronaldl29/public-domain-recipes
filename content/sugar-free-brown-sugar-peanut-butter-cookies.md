@@ -5,7 +5,7 @@ date: 2026-08-10
 author: mcginnisa
 ---
 
-Soft, chewy, and brown-sugary, built around a brown-sugar-style erythritol/stevia blend (such as Truvia Sweet Complete Brown) instead of sugar.
+Soft, chewy, and brown-sugary, built around a brown-sugar-style erythritol/stevia blend instead of sugar.
 
 - ⏲️ Prep time: 45 min
 - 🍳 Cook time: 11 min
@@ -25,6 +25,8 @@ Soft, chewy, and brown-sugary, built around a brown-sugar-style erythritol/stevi
 - 0.8 tsp fine sea salt
 - 0.5 tsp flaky sea salt, for finishing
 
+Spoon the flour into the measuring cup and level it with a knife; dipping the cup into the bag packs in an extra 20-25%, which is the fastest way to end up with dry cookies.
+
 ## Directions
 
 1. Powder the sweetener: run it in a blender or food processor until it looks like powdered sugar. This is the step that keeps the cookies from tasting gritty, so don't skip it. Let the dust settle before opening the lid.
@@ -36,4 +38,6 @@ Soft, chewy, and brown-sugary, built around a brown-sugar-style erythritol/stevi
 7. Bake 10-11 minutes. Pull them when the edges are set but the centers still look puffy and underbaked. The sweetener firms up a lot as it cools, so a cookie that looks done in the oven will be dry on the plate.
 8. Sprinkle immediately with the flaky sea salt, then leave the cookies on the hot sheet for a full 15 minutes without moving them. They're fragile hot and finish setting as they cool.
 
-Spoon the flour into the measuring cup and level it with a knife; dipping the cup into the bag packs in an extra 20-25%, which is the fastest way to end up with dry cookies. If you taste any bitterness from the sweetener, add another 1/4 tsp of fine salt next batch, since salt suppresses bitterness better than more sweetener does. Keeps airtight at room temperature 4-5 days, and gets chewier overnight. Raw dough balls can be frozen and baked from frozen with 2 extra minutes.
+If you taste any bitterness from the sweetener, add another 1/4 tsp of fine salt next batch, since salt suppresses bitterness better than more sweetener does.
+
+Keeps airtight at room temperature 4-5 days, and gets chewier overnight. Raw dough balls can be frozen and baked from frozen with 2 extra minutes.

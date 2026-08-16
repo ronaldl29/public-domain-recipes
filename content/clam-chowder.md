@@ -5,13 +5,13 @@ date: 2025-10-09
 author: "Tim L"
 ---
 
-Basic recipe on creating the clam chowder-base. Ingredient requirements are based on approximate minimums. 
-
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 60 min
 - 🍽️ Servings: 4-6, 3.75 QT pot.
 
 ## Ingredients
+
+Ingredient requirements are based on approximate minimums.
 
 - Bacon, at least enough to create at least 2 tablespoons of drippings for the base
 - Butter, 2 tablespoons

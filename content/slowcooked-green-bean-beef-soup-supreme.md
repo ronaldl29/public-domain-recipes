@@ -5,8 +5,6 @@ date: 2025-11-13
 author: "Bradley Gustin"
 ---
 
-A spicy, slowcooked meal with vegetables, beef, and premade soup. Made with ingredients easily obtained at a grocery store on the cheap, and will last a single person about a week. Many ingredients in this recipe can be supplimented depending on your flavour pallette or preferences. Say for example the green beans can be replaced with other mundane veggies, or the beef with another meat such as venison or chicken.
-
 ![Slowcooked Green Bean Beef Soup Supreme](/pix/slowcooked-green-bean-beef-soup-supreme.webp)
 
 - ⏲️ Prep time: 10 min
@@ -20,6 +18,8 @@ A spicy, slowcooked meal with vegetables, beef, and premade soup. Made with ingr
 - 2x Cans french cut green beans (Or Diced green beans)
 - 3x Small Cans chicken noodle soup
 - 1-4x Jalapenos, depending on preferred spice level (optional)
+
+Ingredients in this recipe can be substituted depending on your flavour palette or preferences. For example the green beans can be replaced with other veggies, or the beef with another meat such as venison o chicken.
 
 ## Directions
 
