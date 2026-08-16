@@ -13,7 +13,6 @@ Oat milk with great consistency.
 
 This is for 1L of oat milk.
 
-- 1L of ❄️ cold water
 - 250 ml of oat
 - 0.5 teaspoon of salt
 - 0.7 tablespoon of peanut butter

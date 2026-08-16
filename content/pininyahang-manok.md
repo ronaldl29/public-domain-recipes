@@ -22,7 +22,6 @@ A comforting Filipino classic with tender chicken simmered in sweet pineapple go
 - 3 cloves garlic, minced
 - 1 cup evaporated milk (optional for creamy version)
 - 2 tbsp fish sauce
-- Salt and pepper to taste
 - 2 tbsp cooking oil
 
 ## Directions
