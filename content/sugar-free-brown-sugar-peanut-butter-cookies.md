@@ -1,6 +1,6 @@
 ---
 title: "Sugar-Free Brown Sugar Peanut Butter Cookies"
-tags: ['dessert', 'cookies', 'sweet', 'peanut-butter', 'sugar-free']
+tags: ['dessert', 'cookies', 'sweet']
 date: 2026-08-10
 author: mcginnisa
 ---

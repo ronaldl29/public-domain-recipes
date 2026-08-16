@@ -1,6 +1,6 @@
 ---
 title: Slowcooked Green Bean Beef Soup Supreme
-tags: ['beef', 'vegetables', 'stew', 'soup', 'crockpot', 'slowcooked', 'spice', 'adaptable']
+tags: ['beef', 'vegetables', 'stew', 'soup', 'slowcooked', 'spicy']
 date: 2025-11-13
 author: "Bradley Gustin"
 ---
