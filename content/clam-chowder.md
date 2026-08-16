@@ -28,7 +28,7 @@ Ingredient requirements are based on approximate minimums.
 ## Directions
 
 1. Cook bacon in stew or soup pot, remove bacon to chop up and add back in later.
-2. Add butter and cook onions and garlic: Season as desired.
+2. Add butter and cook onions and garlic. Season as desired.
 3. Add and cook flour.
 4. Stir in broth, then stir in half and half.
 5. Add dashi or clam juice, bring to gentle boil and simmer for 20 minutes.
