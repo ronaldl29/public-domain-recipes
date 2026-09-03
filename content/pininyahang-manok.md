@@ -22,7 +22,6 @@ A comforting Filipino classic with tender chicken simmered in sweet pineapple go
 - 3 cloves garlic, minced
 - 1 cup evaporated milk (optional for creamy version)
 - 2 tbsp fish sauce
-- Salt and pepper to taste
 - 2 tbsp cooking oil
 
 ## Directions
@@ -36,8 +35,6 @@ A comforting Filipino classic with tender chicken simmered in sweet pineapple go
 7. Add bell peppers and season with salt and pepper.
 8. Simmer for another 3–5 minutes and serve hot.
 
-## Notes
+For a richer flavor, let the chicken absorb the pineapple juice longer before adding milk.
 
-✨ For a richer flavor, let the chicken absorb the pineapple juice longer before adding milk.
-
-🍚 Best served with warm rice and an ice-cold drink.
+Best served with warm rice and an ice-cold drink.
