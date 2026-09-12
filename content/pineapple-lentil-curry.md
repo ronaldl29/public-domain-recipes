@@ -7,8 +7,6 @@ author: haywalk
 
 ![Pineapple Lentil Curry](/pix/pineapple-lentil-curry.webp)
 
-Easy, cheap curry that serves *at least* 6. You will have leftovers!
-
 - ⏲️ Prep time: ~10 min
 - 🍳 Cook time: 25-30 min
 - 🍽️ Servings: 6 (at least)
@@ -35,4 +33,3 @@ Easy, cheap curry that serves *at least* 6. You will have leftovers!
 5. Bring to a boil and then reduce to a simmer. Cover and cook for 25-30 minutes, stirring occasionally, until lentils are soft.
 6. Season with salt and pepper.
 7. Serve over rice.
-

@@ -5,9 +5,6 @@ tags: ['eggs', 'egg whites', 'banana', 'pancake', 'fasting']
 author: scj
 ---
 
-If you opt to use egg whites over whole eggs the final product will not stick together as well, but the taste does not suffer.
-The 1:1 ratio of bannana to egg is a suggestion since the size of each will vary
-
 ![Pancake](/pix/two-ingredient-pancake-02.webp)
 
 - ⏲️ Prep time: 5 min
@@ -21,6 +18,10 @@ The 1:1 ratio of bannana to egg is a suggestion since the size of each will vary
 - A few pinches of oats (optional)
 - Dash of vanilla, nutmeg, cinnamon, and/or cloves (optional)
 - Choice of berries or other addition like chocolate chips (optional)
+
+If you opt to use egg whites over whole eggs the final product will not stick together as well, but the taste does not suffer.
+
+The 1:1 ratio of bannana to egg is a suggestion since the size of each will vary
 
 ![Batter](/pix/two-ingredient-pancake-01.webp)
 

@@ -15,10 +15,10 @@ A simple version of a popular Finnish oven bake.
 
 ## Ingredients
 
-- ~ 1 kg (~2.2lb) of potatoes
-- ~ 300g (~0.7 lb) of smoked ham
+- ~1 kg (~2.2lb) of potatoes
+- ~300g (~0.7 lb) of smoked ham
 - 1 onion chopped
-- ~ 200g (~0.5 lb) grated cheddar
+- ~200g (~0.5 lb) grated cheddar
 - 2 dl (~1 cup) cream
 - cayenne pepper (optional)
 - thyme (optional)
@@ -32,4 +32,4 @@ A simple version of a popular Finnish oven bake.
 5. Pour the cream evenly into the dish.
 6. Add salt and ground black pepper to taste. Additionally, you can add a bit of cayenne pepper powder and thyme to give the dish a bit of spiciness.
 7. Spread the grated cheddar evenly on top of the other ingredients.
-8. Bake in the oven in 200C (400F) for 1h 3omin. Cover with aluminum foil once the cheese has got a bit of colour.
+8. Bake in the oven in 200 °C (400 °F) for 1h 30min. Cover with aluminum foil once the cheese has got a bit of colour.

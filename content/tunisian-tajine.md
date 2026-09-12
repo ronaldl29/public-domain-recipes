@@ -5,11 +5,9 @@ tags: ['tunisian', 'baked', 'meat', 'vegetables', 'mediterranean', 'oven']
 author: amine-saddem
 ---
 
-Tunisian Tajine is a baked, potato & egg based dish that’s rich, hearty, and full of love. Packed with potatoes, cheese and meat, it’s a comforting and satisfying meal.
-
 ![Tajine](/pix/tunisian-tajine.webp)
 
-Exact measurements don’t matter, just go with the vibe and use whatever you have on hand. It’s easy to make, holds up well, and can be enjoyed hot or cold. Whether served as a snack or a main dish, it'll make you happy.
+Exact measurements don't matter, just go with the vibe and use whatever you have on hand. Tajine is easy to make, holds up well, and can be enjoyed hot or cold, as a snack or a main dish.
 
 For a more traditional recipe with a more complex flavor profile, check out the [traditional version](/recipe/tajine).
 

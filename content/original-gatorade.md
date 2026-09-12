@@ -13,12 +13,12 @@ and is very refreshing after any physical exercise.
 
 ## Ingredients
 
-- 4 cups Water
-- 1/4 tsp Table salt
-- 1/4 tsp Salt substitute
-- 1/4 tsp Cream of Tartar
-- 3 tbsp Sugar
-- Juice of 1 Lemon
+- 4 cups water
+- 1/4 tsp table salt
+- 1/4 tsp salt substitute
+- 1/4 tsp cream of tartar
+- 3 tbsp sugar
+- juice of 1 lemon
 
 ## Directions
 

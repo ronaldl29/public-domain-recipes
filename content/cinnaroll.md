@@ -1,5 +1,5 @@
 ---
-title: "Cinnamon Rolls"
+title: "Cinnamon rolls"
 tags: ['dessert', 'sweet']
 date: 2022-08-07
 author: "The Infinity Pizza"
@@ -13,18 +13,19 @@ author: "The Infinity Pizza"
 
 ## Ingredients
 
-### For the dough:
-- 1 cup Milk
-- 2 teaspoons Instant Yeast
-- 1/4 cup Sugar
-- 2 Eggs
-- 1/4 cup softened Butter
-- 3 cups Flour
-- A pinch of Salt
-### For the filling:
-- 1.5 cups Sugar
-- 1/2 cup softened Butter
-- 4 tablespoons ground Cinnamon
+For the dough:
+- 1 cup milk
+- 2 teaspoons instant yeast
+- 1/4 cup sugar
+- 2 eggs
+- 1/4 cup softened butter
+- 3 cups flour
+- a pinch of salt
+
+For the filling:
+- 1.5 cups sugar
+- 1/2 cup softened butter
+- 4 tablespoons ground cinnamon
 
 ## Directions
 

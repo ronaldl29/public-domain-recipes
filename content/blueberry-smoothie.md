@@ -15,12 +15,12 @@ An all-natural, simple smoothie.
 
 ## Ingredients
 
-- 1 Cup of from Blueberries.
-- 1 Cup of Whole Milk.
-- 1/2 Cup of Whole Greek Yogurt
-- A dab of Raw, Unfiltered Honey (optional)
-- Oats/Granola (optional)
-- A Drop or Two of Vanilla (optional)
+- 1 cup of blueberries
+- 1 cup of whole milk
+- 1/2 cup of whole greek yogurt
+- a dab of raw, unfiltered honey (optional)
+- oats/granola (optional)
+- a drop or two of vanilla (optional)
 
 ## Directions
 

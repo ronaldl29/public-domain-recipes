@@ -7,34 +7,35 @@ author: "Mitchell Marquez"
 
 ![Shrimp Creole](/pix/shrimpcreole-mitchmarq42.webp)
 
-A sweet and savory stew with shrimp and a bit of spice. Adaptation from my grandmother's recipe.
-
 - ⏲️ Prep time: 2 hrs
 - 🍳 Cook time: 1-1.5 hrs
 - 🍽️ Servings: 8
 
 ## Ingredients
 
-- 2 cups Green Bell Pepper, diced
-- 1 5-inch Yellow or White Onion, diced
-- 2 cups of Celery, diced (try to get one with lots of green leaves)
-- 1/4 cup of olive or cooking oil
-- 1 cup chili sauce (it looks like ketchup but is not)
-- [optional] 3 tbsp spicy sauce
-- 1 cup of seedless Golden Raisins
-- 1 cup of Slivered Almonds
-- 3x 14.5oz cans of diced tomato - optionally blend one
-- 1 teaspoon each: pepper, thyme, salt
-- 2 tsp curry powder
-- 1/2 cup parsley
 - 2 lb cleaned and shelled shrimp
 - cooked white rice
+- 2 cups green bell pepper, diced
+- 1 5-inch yellow or white onion, diced
+- 2 cups of celery, diced (try to get one with lots of green leaves)
+- 1/4 cup of olive or cooking oil
+- 1 cup chili sauce (it looks like ketchup but is not)
+- 3 tbsp spicy sauce (optional)
+- 1 cup of seedless golden raisins
+- 1 cup of slivered almonds
+- 3x 14.5 oz cans of diced tomato - optionally blend one
+- 1 tsp pepper
+- 1 tsp thyme
+- 1 tsp salt
+- 2 tsp curry powder
+- 1/2 cup parsley
 
 ## Directions
 
+This dish is best if cooked a day ahead and reheated.
+
 1. Sauté raw vegetables in oil
-2. add remaining ingredients **except shrimp**
-3. simmer 1 hour
+2. Add remaining ingredients *except shrimp*
+3. Simmer 1 hour
 4. Add shrimp and cook for 5 minutes
 5. Serve over cooked rice
-6. [optional] Best if cooked a day ahead and reheated.
