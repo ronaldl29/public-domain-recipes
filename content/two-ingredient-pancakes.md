@@ -5,8 +5,6 @@ tags: ['eggs', 'egg whites', 'banana', 'pancake', 'fasting']
 author: scj
 ---
 
-![Pancake](/pix/two-ingredient-pancake-02.webp)
-
 - ⏲️ Prep time: 5 min
 - 🍳Wait time: 15 min
 - 🍽️ Servings: 1-2
@@ -22,8 +20,6 @@ author: scj
 If you opt to use egg whites over whole eggs the final product will not stick together as well, but the taste does not suffer.
 
 The 1:1 ratio of bannana to egg is a suggestion since the size of each will vary
-
-![Batter](/pix/two-ingredient-pancake-01.webp)
 
 ## Directions
 

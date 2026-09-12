@@ -5,7 +5,7 @@ date: 2022-12-27
 author: "Mitchell Marquez"
 ---
 
-![Shrimp Creole](/pix/shrimpcreole-mitchmarq42.webp)
+![Shrimp Creole](/pix/shrimp-creole.webp)
 
 - ⏲️ Prep time: 2 hrs
 - 🍳 Cook time: 1-1.5 hrs

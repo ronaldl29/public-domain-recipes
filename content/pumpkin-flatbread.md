@@ -5,8 +5,7 @@ tags: ['vegan']
 author: remove-wingman
 ---
 
-![Pumpkin Flatbread 1](/pix/pumpkin-flatbread-1.avif)
-![Pumpkin Flatbread 2](/pix/pumpkin-flatbread-2.avif)
+![Pumpkin Flatbread](/pix/pumpkin-flatbread.webp)
 
 - ⏲️ Prep time: 30 min
 - 🍳Cook time: 60 min
