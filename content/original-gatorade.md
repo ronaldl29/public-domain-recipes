@@ -15,7 +15,7 @@ and is very refreshing after any physical exercise.
 
 - 4 cups Water
 - 1/4 tsp Table salt
-- 1/4 tsp Salt substitute (NuSalt or NoSalt)
+- 1/4 tsp Salt substitute
 - 1/4 tsp Cream of Tartar
 - 3 tbsp Sugar
 - Juice of 1 Lemon

@@ -19,8 +19,8 @@ A sweet and savory stew with shrimp and a bit of spice. Adaptation from my grand
 - 1 5-inch Yellow or White Onion, diced
 - 2 cups of Celery, diced (try to get one with lots of green leaves)
 - 1/4 cup of olive or cooking oil
-- 1 cup Heinz chili sauce (it looks like ketchup but is not)
-- [optional] 3 tbsp Frank's RedHot sauce
+- 1 cup chili sauce (it looks like ketchup but is not)
+- [optional] 3 tbsp spicy sauce
 - 1 cup of seedless Golden Raisins
 - 1 cup of Slivered Almonds
 - 3x 14.5oz cans of diced tomato - optionally blend one

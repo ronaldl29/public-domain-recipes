@@ -12,7 +12,7 @@ Such a simple way to prepare such a juicy slab of meat- Argentinian style!
 
 ## Ingredients
 - Beef chuck short ribs (bone in preferrably)
-- Celusal BBQ Salt - Iodized (including the specific type of salt due to smaller salt grains not working well)
+- Coarse-grained salt
 
 ## Directions
 1. Heat oven to 400F/200C

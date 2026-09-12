@@ -29,7 +29,7 @@ Note: don't worry if you hate plain yogurt! The bananas and peanut butter combin
 3. Scoop yogurt into blender and blend until combined.
 4. Scoop peanut butter into blender and blend until combined.
 5. If using eggs, scramble and cook them on the stove. Add them to blender and blend until combined.
-6. Divide blender contents between 3 storage containers, such as tupperware.
+6. Divide blender contents between 3 storage containers.
 7. Divide oats into each contatiner.
 8. Mix each container throughoughly so that the oats are well distributed and are not clumped together.
 9. Let soak in refridgerator for at least 12 hours.
