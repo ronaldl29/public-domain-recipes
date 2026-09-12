@@ -1,6 +1,6 @@
 ---
 title: Kaiserschmarrn
-tags: ['sweets', 'sweet', 'german', 'austrian']
+tags: ['sweet', 'german', 'austrian']
 date: 2023-04-30
 author: "Felix Steiner"
 ---

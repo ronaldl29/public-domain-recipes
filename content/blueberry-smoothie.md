@@ -1,6 +1,6 @@
 ---
 title: Blueberry Smoothie
-tags: ['fruit', 'drink', 'smoothie']
+tags: ['berries', 'drink']
 date: 2025-07-14
 author: "riley-ross"
 ---

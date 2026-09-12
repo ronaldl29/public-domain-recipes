@@ -1,6 +1,6 @@
 ---
 title: Ayran
-tags: ['drink', 'dairy', 'breakfast']
+tags: ['drink', 'cheesefare']
 date: 2022-08-11
 author: "Viktor"
 ---

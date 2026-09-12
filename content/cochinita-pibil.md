@@ -1,6 +1,6 @@
 ---
 title: Cochinita Pibil
-tags: ['pork', 'mexican', 'yucatecan', 'traditional', 'slow-cooked', 'achiote']
+tags: ['pork', 'mexican', 'yucatecan', 'traditional']
 date: 2025-06-11
 author: "corerat"
 ---

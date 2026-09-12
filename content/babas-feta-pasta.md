@@ -1,7 +1,7 @@
 ---
 title: "Baba's Feta Pasta"
 date: 2021-03-21
-tags: ['greek', 'feta', 'pasta', 'supper']
+tags: ['greek', 'pasta', 'supper']
 author: peepopoggers
 ---
 

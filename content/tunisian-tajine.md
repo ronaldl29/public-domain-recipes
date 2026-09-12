@@ -1,7 +1,7 @@
 ---
 title: "Tunisian Tajine (laidback version)"
 date: 2025-03-25
-tags: ['tunisian', 'baked', 'meat', 'vegetables', 'mediterranean', 'oven']
+tags: ['tunisian', 'baking', 'meat', 'vegetables', 'mediterranean']
 author: amine-saddem
 ---
 

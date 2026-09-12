@@ -1,6 +1,6 @@
 ---
 title: Desert roses
-tags: ['biscuit', 'breakfast', 'cheesefare', 'cookies', 'oven']
+tags: ['biscuit', 'breakfast', 'cheesefare', 'cookies', 'baking']
 date: 2026-08-31
 author: "pestanzul"
 ---

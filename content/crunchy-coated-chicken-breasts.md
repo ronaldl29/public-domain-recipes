@@ -1,6 +1,6 @@
 ---
 title: Crunchy Coated Chicken Breasts
-tags: ['chicken', 'oven']
+tags: ['chicken', 'baking']
 date: 2022-12-15
 author: ""
 ---

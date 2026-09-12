@@ -1,6 +1,6 @@
 ---
 title: Chocolate Cake
-tags: ['chocolate', 'cake', 'coffee']
+tags: ['chocolate', 'cake']
 date: 2022-12-31
 author: "segf00lt"
 ---

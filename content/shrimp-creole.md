@@ -1,6 +1,6 @@
 ---
 title: Shrimp Creole
-tags: ['shrimp', 'stew', 'southern']
+tags: ['shrimp', 'stew']
 date: 2022-12-27
 author: "Mitchell Marquez"
 ---

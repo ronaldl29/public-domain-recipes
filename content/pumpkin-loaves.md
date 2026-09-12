@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Loaves
-tags: ['pumpkin', 'dessert', 'sweet', 'cheesefare']
+tags: ['dessert', 'sweet', 'cheesefare']
 date: 2023-02-24
 author: kylertk
 ---

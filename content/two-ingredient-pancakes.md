@@ -1,7 +1,7 @@
 ---
 title: "Two Ingredient Pancakes"
 date: 2022-07-28
-tags: ['eggs', 'egg whites', 'banana', 'pancake', 'fasting']
+tags: ['eggs', 'pancake', 'fasting']
 author: scj
 ---
 

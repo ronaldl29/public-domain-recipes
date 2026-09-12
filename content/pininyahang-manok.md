@@ -1,7 +1,7 @@
 ---
 title: "Pininyahang Manok"
 date: 2026-05-26
-tags: ['filipino', 'chicken', 'pineapple']
+tags: ['filipino', 'chicken']
 author: JezCruz
 ---
 
