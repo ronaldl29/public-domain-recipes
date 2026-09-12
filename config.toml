@@ -6,6 +6,10 @@ theme = 'sugo'
 [params]
   indexarticles = 50
   taglist = true
+  datesinlist = false
+  authorsinlist = false
+  nextprev = true
+  showrss = true
 
 [markup]
   [markup.goldmark]
