@@ -26,7 +26,7 @@ author: kylertk
 
 ## Directions
 
-1. Grease 2 loaf pans or cover with parchment paper, then preheat oven to 325°F
+1. Grease 2 loaf pans or cover with parchment paper, then preheat oven to 325 °F
 2. Sift flour with all other dry ingredients (optional)
 3. Beat sugar and butter
 4. Add eggs to sugar/butter mixture, one at a time

@@ -13,7 +13,7 @@ For a more traditional recipe with a more complex flavor profile, check out the 
 
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 20 min
-- 🍽️ Servings: Varies depending on the number of slices.
+- 🍽️ Servings: varies depending on the number of slices
 
 ## Ingredients
 
@@ -28,10 +28,10 @@ For a more traditional recipe with a more complex flavor profile, check out the 
 
 ## Directions
 
-1.	Start by dicing the potatoes and onion, then thinly slicing the parsley/spinach. The smaller you chop the potatoes and onion, the faster they’ll cook.
-2.	In a large pan, cook the parsley/spinach until it wilts and releases its moisture. Set aside.
-3.	In the same pan, half-fry the potatoes and onion until they soften and turn lightly golden. If your pan isn’t deep enough to fully submerge them in oil, fry in batches. Once done, drain them well on a paper towel.
-4.	In a large bowl, combine the potatoes, onion, parsley, olives, cheese, eggs, and your meat of choice. Mix thoroughly.
-5.  Season with half a teaspoon of salt, a good pinch of black pepper, and a pinch of paprika if you it to have a bit of a kick.
-6.	Pour the mixture into a baking dish and bake at 200°C until it passes the knife test (usually around 20-25 minutes).
-7.	Serve and enjoy!
+1. Start by dicing the potatoes and onion, then thinly slicing the parsley/spinach. The smaller you chop the potatoes and onion, the faster they'll cook.
+2. In a large pan, cook the parsley/spinach until it wilts and releases its moisture. Set aside.
+3. In the same pan, half-fry the potatoes and onion until they soften and turn lightly golden. If your pan isn't deep enough to fully submerge them in oil, fry in batches. Once done, drain them well on a paper towel.
+4. In a large bowl, combine the potatoes, onion, parsley, olives, cheese, eggs, and your meat of choice. Mix thoroughly.
+5. Season with half a teaspoon of salt, a good pinch of black pepper, and a pinch of paprika if you it to have a bit of a kick.
+6. Pour the mixture into a baking dish and bake at 200°C until it passes the knife test (usually around 20-25 minutes).
+7. Serve and enjoy!

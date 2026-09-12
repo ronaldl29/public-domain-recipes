@@ -32,4 +32,4 @@ Note: don't worry if you hate plain yogurt! The bananas and peanut butter combin
 6. Divide blender contents between 3 storage containers.
 7. Divide oats into each contatiner.
 8. Mix each container throughoughly so that the oats are well distributed and are not clumped together.
-9. Let soak in refridgerator for at least 12 hours.
+9. Let soak in refrigerator for at least 12 hours.

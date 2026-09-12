@@ -11,14 +11,15 @@ Called _Bacalhau com Natas_ in Portuguese, this is a traditional Portuguese dish
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 50 min
 - 🍽️ Servings: 2
+
 ## Ingredients
 
-- 2 cod fillets (+- 250 grams)
+- 2 cod fillets (~250 grams)
 - 400ml of milk, either whole or semi-skimmed
 - half an onion, sliced
 - 1/2 tablespoons of flour
-- 500 grams of potatoes
-- 150ml fresh cream
+- 500 g of potatoes
+- 150 ml fresh cream
 - grated cheese (mozzarella works fine)
 - ground nutmeg
 

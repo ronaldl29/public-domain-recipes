@@ -30,7 +30,7 @@ For the filling:
 ## Directions
 
 1. In a large bowl, mix all dough ingredients except butter.
-2. Kneed in the butter gradually until dough passes the "Windowpane Test": Take a piece of the dough and stretch it gently apart, it should spread out smoothly until light is visible through the dough without tearing. This is a sign of good gluten development.
+2. Knead in the butter gradually until dough passes the "Windowpane Test": take a piece of the dough and stretch it gently apart, it should spread out smoothly until light is visible through the dough without tearing. This is a sign of good gluten development.
 3. Let rise for 90 minutes.
 4. In a small bowl, mix all filling ingredients.
 5. Take risen dough and roll it into a rectangle the size of your pan.

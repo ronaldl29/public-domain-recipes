@@ -9,11 +9,13 @@ author: mttwdevelops
 - 🍳 Cook time: 45 min
 
 ## Ingredients
+
 - Beef chuck short ribs (bone in preferrably)
 - Coarse-grained salt
 
 ## Directions
-1. Heat oven to 400F/200C
+
+1. Heat oven to 400 °F/200 °C
 2. Take beef out of fridge and let thaw or reach near room temperature
 3. Optionally rinse each end of the beef to get rid of any remaining bone fragments from when the meat was cut
 4. Pat all sides of beef dry with a paper towel
