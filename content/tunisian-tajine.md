@@ -9,7 +9,7 @@ author: amine-saddem
 
 Exact measurements don't matter, just go with the vibe and use whatever you have on hand. Tajine is easy to make, holds up well, and can be enjoyed hot or cold, as a snack or a main dish.
 
-For a more traditional recipe with a more complex flavor profile, check out the [traditional version](/recipe/tajine).
+For a more traditional recipe with a more complex flavor profile, check out the [traditional version](/tajine).
 
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 20 min
