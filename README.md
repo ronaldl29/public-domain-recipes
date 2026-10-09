@@ -3,10 +3,10 @@
 
 [PublicDomainRecipes.com](https://publicdomainrecipes.com)
 
-This is a simple cooking website where users can submit recipes here for credit.
+This is a simple cooking website where users can submit recipes for credit.
 There are no ads, trackers or cookies (unless recipes thereof).
 
-This site is compiled and organized with Hugo, using [this very simple theme](https://github.com/lukesmithxyz/lugo). This project is a continuation of LukeSmithXYZ's [based.cooking project](https://github.com/LukeSmithxyz/based.cooking).
+This site is compiled and organized with Hugo, using [a very simple theme](https://codeberg.org/ronaldl29/public-domain-recipes/src/branch/main/themes/sugo). This project is a continuation of Luke Smith's [based.cooking project](https://github.com/LukeSmithxyz/based.cooking).
 
 ![Screenshot](https://github.com/ronaldl29/public-domain-recipes/blob/main/README-image.png?raw=true)
 
@@ -33,6 +33,7 @@ You may include a json file with your personal links/donation addresses in
 ### Tags
 
 Remember to add tags to your recipe, but try to use tags already used by other recipes.
+You can find the list on the [homepage](https://publicdomainrecipes.com).
 
 If your recipe contains no meat or dairy, include the `fasting` tag.
 If it includes dairy but no milk, include the `cheesefare` tag.
@@ -42,13 +43,13 @@ If it includes dairy but no milk, include the `cheesefare` tag.
 Images are stored in `/pix`.
 
 Each recipe can have a title image at the top and perhaps several instructional
-images as absolutely necessary.
+images as strictly necessary.
 
 Do not add stock images you found on the internet. Take a good picture yourself
 of the actual dish created. If you see a bad or substandard image, you may
 submit a better one.
 
-Images should be in `.webp` format and with as small file size as possible. If
+Images should be in `.webp` format and with as small file size as possible, ideally less than 100K. If
 you submit an image for say, `chicken-parmesan.md`, it should be added as
 `pix/chicken-parmesan.webp`.
 
@@ -69,5 +70,5 @@ at the bottom of a submitted page for you adding it
 
 # Building Locally
 1. Run `git clone https://github.com/ronaldl29/public-domain-recipes.git`
-2. Run `hugo` to build for production or `hugo --baseURL="http://localhost:1313/" server` to run a development server.
+2. Run `hugo` to build for production or `hugo server` to run a development server.
 3. The website's generated files are now in the `/public` directory.
