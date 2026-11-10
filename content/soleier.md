@@ -1,7 +1,7 @@
 ---
 title: "Soleier (pickled eggs)"
 date: 2021-05-13
-tags: ['snack', 'german', 'eggs', 'pub']
+tags: ['snack', 'german', 'eggs']
 author: svent
 ---
 

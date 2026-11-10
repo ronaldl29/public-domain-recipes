@@ -1,6 +1,6 @@
 ---
 title: "Pesto Chicken Quinoa Bowls"
-tags: ['chicken', 'quinoa']
+tags: ['chicken']
 date: 2026-08-10
 author: mcginnisa
 ---

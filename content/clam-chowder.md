@@ -1,5 +1,5 @@
 ---
-title: Clam Chowder
+title: "Clam Chowder"
 tags: ['seafood', 'stew', 'american']
 date: 2025-10-09
 author: "Tim L"
