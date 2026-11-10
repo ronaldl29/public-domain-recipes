@@ -27,6 +27,7 @@ author: "pestanzul"
 
 1. Mix eggs, sugar, milk, flour, yeast and mistrà and knead them in a soft dough.
 1. Roll out to about 1.5 cm thick.
-1. Cut it to squares about 5 cm long.
+1. Cut it to squares about 5 cm long, or create balls about 3 cm long.
 1. Fry them for about 5 minutes.
+   Use much oil: raw castagnole should almost float in it.
 1. Dry them and sweeten with sugar or honey.

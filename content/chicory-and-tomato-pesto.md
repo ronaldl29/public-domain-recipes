@@ -35,13 +35,14 @@ You will most probably need to adapt them.
    You don't need a perfect work, but the drier, the better.
 2. Place garlic in a mortar and mash it to a cream with a pestel.
 3. Add almonds and grind them.
-   They must be reduced to small pieces, not powedered.
+   They must be reduced to small pieces, not powdered.
    You won't be able to crumble them further after this step.
 4. Add chicory, cleaned tomatoes and very little coarse-grained salt and mash to a cream.
    The main function of the salt is to help mashing: make sure it disappears.
-   The result be more or less liquid depending on the vegetables you use, but don't worry about it yet.
+   The result will be more or less liquid depending on the vegetables you use, but don't worry about it yet.
 5. Grate the cheese, then add into the mortar and mash to a cream.
-   The result should be pretty uniform, except some floating fibers.
+   The result should be pretty uniform and firm, except some floating fibers.
+   If it is too liquid add some cheese.
 6. Add 2 tablespoons oil and mash until uniform.
 7. If you are not satisfied with the texture, add 1 more tablespoon oil and mash again.
    Repeat until you like it, but remember that the result must be a uniform cream, without visible oil in it.
